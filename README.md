@@ -20,3 +20,7 @@ Este repositório contém os seguintes componentes principais:
 1. **Código-fonte do Publisher (C++)**: O código para o dispositivo ESP32 que publica os dados dos sensores no tópico MQTT. Também contém o desenvolvimento do Sensor Virtual.
 
 2. **Código-fonte do Subscriber (Python)**: O código que assina o tópico MQTT e armezena os dados recebidos, permitindo o monitoramento da ocupação das salas.
+
+
+[Link para a Monografia do TCC](https://github.com/emersondont/TCC/blob/main/Monografia_TCC_Emerson_Vieira.pdf)
+
